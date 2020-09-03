@@ -1,0 +1,49 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f0fff0;
+}
+
+.container img {
+  width: 50%;
+}
+
+h6 {
+  max-width: 510px;
+  font-size: 20px;
+}
+
+.my-input {
+  width: 300px;
+  background: #bef3be;
+}
+
+.my-input:focus {
+  background: #f0fff0;
+}
+
+
+
+.logIn-btn {
+  background: #21b573;
+  transition: all 0.3s ease-in-out;
+  color: white;
+}
+
+.logIn-btn:hover {
+  
+  color: white;
+  background: #0f6b40;
+  font-weight: 500;
+}
+
+a{
+    font-size:14px;
+    color:#21b573;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+  color: gray;
+  font-weight: 500;
+}
