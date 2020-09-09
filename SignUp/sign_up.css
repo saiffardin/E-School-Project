@@ -16,7 +16,7 @@ body {
 /* ----------------------------------------------------------------------------- to hide overflow in mobile device*/
 
 .sign-up-btn {
-  margin-top:5px;
+  margin-top: 5px;
   background: #21b573;
   border-radius: 33px;
 
@@ -33,6 +33,11 @@ body {
   font-weight: 600;
 }
 
+.logIn-btn a {
+    text-decoration: none;
+    color: white;
+}
+
 .logIn-btn {
   font-size: 14px;
   height: 30px;
@@ -44,10 +49,14 @@ body {
 
   color: white;
   font-weight: 600;
+
+  line-height: 28px;
+
 }
 
 .logIn-btn:hover {
   transform: scale(1.1);
+  /* background: #0f6b40; */
   color: white;
 }
 

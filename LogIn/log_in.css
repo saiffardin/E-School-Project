@@ -21,6 +21,10 @@ h6 {
   background: #f0fff0;
 }
 
+.logIn-btn a {
+    text-decoration: none;
+    color: white;
+}
 
 
 .logIn-btn {
